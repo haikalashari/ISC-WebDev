@@ -1,0 +1,17 @@
+body{
+    width: '100vh';
+}
+section {
+    display: flex;
+    min-height: 400px;
+}
+
+aside {
+    flex: 1;
+    max-width: '20vh';
+    background-color: aqua;
+}
+
+article {
+    flex:5;
+}

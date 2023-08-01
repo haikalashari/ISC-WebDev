@@ -1,0 +1,41 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    margin: 0;
+}
+
+
+article {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 150xpx;
+    margin-top: 150px;
+}
+
+.biodata {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.foto {
+    margin-right: 15px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    
+}
